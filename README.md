@@ -1,0 +1,3 @@
+# Intermittent Tailwind CSS Class Application Failure
+
+This repository demonstrates a bug where Tailwind CSS classes are not consistently applied after running the build process. The issue is intermittent and the exact cause is unclear, making debugging challenging.  The bug appears to only occur after a build step.  The `bug.js` file contains the initial buggy Tailwind configuration and HTML, and `bugSolution.js` offers a potential solution.  This issue seems to be related to build processes and caching.
